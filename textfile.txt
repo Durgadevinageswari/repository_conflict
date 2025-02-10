@@ -1,1 +1,3 @@
-this is repository, detailing about git conflict things
+this is repository, detailing about git conflict
+....
+good
