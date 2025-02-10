@@ -1,0 +1,1 @@
+this is repository, detailing about git conflict
